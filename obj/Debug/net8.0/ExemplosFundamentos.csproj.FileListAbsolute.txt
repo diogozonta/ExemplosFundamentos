@@ -1,0 +1,14 @@
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.exe
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.deps.json
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.runtimeconfig.json
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.dll
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.pdb
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.AssemblyInfoInputs.cache
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.AssemblyInfo.cs
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.csproj.CoreCompileInputs.cache
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.dll
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\obj\Debug\net8.0\refint\ExemplosFundamentos.dll
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.pdb
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.genruntimeconfig.cache
+E:\workspace\repos\DIO\Bootcamp XP\ExemplosFundamentos\obj\Debug\net8.0\ref\ExemplosFundamentos.dll
